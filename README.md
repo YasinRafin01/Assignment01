@@ -1,4 +1,4 @@
-![Screenshot from 2024-07-11 19-19-39](https://github.com/YasinRafin01/Assignment01/assets/175309112/23493c93-9c93-4c04-90b2-62ea622e0563)# Booking_Room
+# Booking_Room
 This is a booking room for traveller who can book their room and can also see who is their tour host throught the travel.This is an UI designed using HTML and CSS.
 
 # User Interface:
